@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "electroblocks-test"
+  },
+  "targets": {
+    "electroblocks-test": {
+      "hosting": {
+        "main": [
+          "electroblocks-test"
+        ]
+      }
+    }
+  }
+}
